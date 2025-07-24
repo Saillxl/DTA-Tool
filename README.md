@@ -2,7 +2,7 @@
 ![软件图](https://github.com/Saillxl/DTA-Tool/blob/main/assets/DTA-Tool.png)
 **DTA-Tool** is an integrated and user-friendly toolkit designed for **drug–target binding affinity (DTA) prediction**. It brings together six classical and state-of-the-art sequence-based DTA prediction algorithms, enabling researchers and developers to efficiently estimate binding affinity values for drug–target pairs.
 
-👉 **[Download here](https://drive.google.com/file/d/1jRyARZn2OrgsFQ3F1Vwra3p6qGLyk11t/view?usp=sharing)**
+👉 **[Download here](https://drive.google.com/file/)**
 
 ## 🔬 Key Features
 
